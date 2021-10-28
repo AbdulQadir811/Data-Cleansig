@@ -1,0 +1,6 @@
+CLEANER_LOG,20,INFO, >>>>>>> Start <<<<<<< TIME : 2021_09_04-05_59_35_PM,cleaner,main,123,None,14192,139645107074880,MainThread
+CLEANER_LOG,40,ERROR,[!] error occurs in data_cleaning,cleaner,remove_nonascii,84,None,14192,139645107074880,MainThread
+Traceback (most recent call last):
+  File "cleaner.py", line 66, in remove_nonascii
+    output_read = open(file_name, "r")
+FileNotFoundError: [Errno 2] No such file or directory: 'output3_2021_09_04-09_46_51_PM.txt'

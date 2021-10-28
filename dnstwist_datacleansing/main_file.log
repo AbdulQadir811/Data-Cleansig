@@ -1,0 +1,69 @@
+CLEANER_LOG,20,INFO, >>>>>>> Start <<<<<<< TIME : 2021_09_04-05_14_51_PM,cleaner,main,117,None,8425,139957064648512,MainThread
+CLEANER_LOG,40,ERROR,[!] error occurs in data_cleaning,cleaner,remove_nonascii,82,None,8425,139957064648512,MainThread
+Traceback (most recent call last):
+  File "cleaner.py", line 80, in remove_nonascii
+    remove_exctention(first_csv_name)
+  File "cleaner.py", line 86, in remove_exctention
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+CLEANER_LOG,40,ERROR,[!] error occurs in data_cleaning,cleaner,remove_nonascii,82,None,8425,139957064648512,MainThread
+Traceback (most recent call last):
+  File "cleaner.py", line 80, in remove_nonascii
+    remove_exctention(first_csv_name)
+  File "cleaner.py", line 86, in remove_exctention
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+CLEANER_LOG,40,ERROR,[!] error occurs in data_cleaning,cleaner,remove_nonascii,82,None,8425,139957064648512,MainThread
+Traceback (most recent call last):
+  File "cleaner.py", line 80, in remove_nonascii
+    remove_exctention(first_csv_name)
+  File "cleaner.py", line 86, in remove_exctention
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+CLEANER_LOG,40,ERROR,[!] error occurs in data_cleaning,cleaner,remove_nonascii,82,None,8425,139957064648512,MainThread
+Traceback (most recent call last):
+  File "cleaner.py", line 80, in remove_nonascii
+    remove_exctention(first_csv_name)
+  File "cleaner.py", line 86, in remove_exctention
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+CLEANER_LOG,40,ERROR,[!] error occurs in data_cleaning,cleaner,remove_nonascii,82,None,8425,139957064648512,MainThread
+Traceback (most recent call last):
+  File "cleaner.py", line 80, in remove_nonascii
+    remove_exctention(first_csv_name)
+  File "cleaner.py", line 86, in remove_exctention
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+CLEANER_LOG,40,ERROR,[!] error occurs in data_cleaning,cleaner,remove_nonascii,82,None,8425,139957064648512,MainThread
+Traceback (most recent call last):
+  File "cleaner.py", line 80, in remove_nonascii
+    remove_exctention(first_csv_name)
+  File "cleaner.py", line 86, in remove_exctention
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+CLEANER_LOG,40,ERROR,[!] error occurs in data_cleaning,cleaner,remove_nonascii,82,None,8425,139957064648512,MainThread
+Traceback (most recent call last):
+  File "cleaner.py", line 80, in remove_nonascii
+    remove_exctention(first_csv_name)
+  File "cleaner.py", line 86, in remove_exctention
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+CLEANER_LOG,20,INFO, >>>>>>> Finish <<<<<<< TIME : 2021_09_04-05_14_51_PM,cleaner,main,122,None,8425,139957064648512,MainThread
+CLEANER_LOG,20,INFO, >>>>>>> Start <<<<<<< TIME : 2021_09_04-05_17_54_PM,cleaner,main,117,None,8918,139996706932544,MainThread
+CLEANER_LOG,20,INFO, >>>>>>> Finish <<<<<<< TIME : 2021_09_04-05_17_54_PM,cleaner,main,122,None,8918,139996706932544,MainThread
+CLEANER_LOG,20,INFO, >>>>>>> Start <<<<<<< TIME : 2021_09_04-05_18_08_PM,cleaner,main,117,None,9044,139701793650496,MainThread
+CLEANER_LOG,20,INFO, >>>>>>> Finish <<<<<<< TIME : 2021_09_04-05_18_09_PM,cleaner,main,122,None,9044,139701793650496,MainThread
+CLEANER_LOG,20,INFO, >>>>>>> Start <<<<<<< TIME : 2021_09_04-05_18_32_PM,cleaner,main,117,None,9254,140691735508800,MainThread
+CLEANER_LOG,20,INFO, >>>>>>> Start <<<<<<< TIME : 2021_09_04-05_20_21_PM,cleaner,main,117,None,9473,139795100690240,MainThread
+CLEANER_LOG,20,INFO, >>>>>>> Start <<<<<<< TIME : 2021_09_04-05_21_41_PM,cleaner,main,117,None,9643,139866194102080,MainThread
+CLEANER_LOG,40,ERROR,[!] error occurs in data_cleaning,cleaner,remove_nonascii,82,None,9473,139795100690240,MainThread
+Traceback (most recent call last):
+  File "cleaner.py", line 64, in remove_nonascii
+    output_read = open(file_name, "r")
+FileNotFoundError: [Errno 2] No such file or directory: 'output1_2021_09_04-05_20_21_PM.txt'
+CLEANER_LOG,40,ERROR,[!] error occurs in data_cleaning,cleaner,remove_nonascii,82,None,9643,139866194102080,MainThread
+Traceback (most recent call last):
+  File "cleaner.py", line 64, in remove_nonascii
+    output_read = open(file_name, "r")
+FileNotFoundError: [Errno 2] No such file or directory: 'output1_2021_09_04-05_21_41_PM.txt'
+CLEANER_LOG,20,INFO, >>>>>>> Start <<<<<<< TIME : 2021_09_04-05_30_28_PM,cleaner,main,123,None,10438,139830426638144,MainThread
